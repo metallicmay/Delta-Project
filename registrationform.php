@@ -47,6 +47,7 @@
     </tr>   
    </table>
    </form>
+   <p> (* indicates required field) </p>
    </body>
 </html>
 	
