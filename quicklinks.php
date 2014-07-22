@@ -16,6 +16,6 @@ echo"<h1>QUICK LINKS</h1>";
 <div> <a href=http://www.nitt.edu/> Official Website of NITT </a> </div>
 <br></br>
 <p>Blogs about NITT:</p>
-
+<div> <a href=http://www.metallicmay.wordpress.com> NITT-The true blue experience</a> </div>
 </body>
 </html>
